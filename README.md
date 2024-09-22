@@ -42,9 +42,9 @@
 
 [Practitioner Lab 20: **SQL injection with filter bypass via XML encoding**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2020%20SQL%20injection%20with%20filter%20bypa%20e9319150e23444afa957681e053c49bb.md)
 
-[Practitioner Lab 21: [**Blind SQL injection](https://portswigger.net/web-security/sql-injection/blind) with time delays**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2021%20Blind%20SQL%20injection%20with%20time%20%2075cc3b57e85048be89beda09eee3e94e.md)
+[Practitioner Lab 21: [**Blind SQL injection with time delays**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2021%20Blind%20SQL%20injection%20with%20time%20%2075cc3b57e85048be89beda09eee3e94e.md)
 
-[Practitioner Lab 22:  **[SQL injection](https://portswigger.net/web-security/sql-injection) attack, querying the database type and version on Oracle**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2022%20SQL%20injection%20attack,%20querying%20e805a853fc944f34bca12ba93902e09c.md)
+[Practitioner Lab 22:  [**SQL injection attack, querying the database type and version on Oracle**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2022%20SQL%20injection%20attack,%20querying%20e805a853fc944f34bca12ba93902e09c.md)
 
 [Practitioner Lab 23: SQL injection **attack, listing the database contents on Oracle**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2023%20SQL%20injection%20attack,%20listing%20%206875f2b9239d425986aff3337e7b00c2.md)
 
