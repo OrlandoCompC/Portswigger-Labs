@@ -42,9 +42,9 @@
 
 [Practitioner Lab 20: **SQL injection with filter bypass via XML encoding**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2020%20SQL%20injection%20with%20filter%20bypa%20e9319150e23444afa957681e053c49bb.md)
 
-[Practitioner Lab 21: [**Blind SQL injection with time delays**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2021%20Blind%20SQL%20injection%20with%20time%20%2075cc3b57e85048be89beda09eee3e94e.md)
+[Practitioner Lab 21: **Blind SQL injection with time delays**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2021%20Blind%20SQL%20injection%20with%20time%20%2075cc3b57e85048be89beda09eee3e94e.md)
 
-[Practitioner Lab 22:  [**SQL injection attack, querying the database type and version on Oracle**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2022%20SQL%20injection%20attack,%20querying%20e805a853fc944f34bca12ba93902e09c.md)
+[Practitioner Lab 22: **SQL injection attack, querying the database type and version on Oracle**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2022%20SQL%20injection%20attack,%20querying%20e805a853fc944f34bca12ba93902e09c.md)
 
 [Practitioner Lab 23: SQL injection **attack, listing the database contents on Oracle**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2023%20SQL%20injection%20attack,%20listing%20%206875f2b9239d425986aff3337e7b00c2.md)
 
@@ -66,15 +66,15 @@
 
 [Practitioner Lab 32**: Blind OS Command Injection with time delays**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2032%20Blind%20OS%20Command%20Injection%20wit%20743cf43456604f51bdbb91c3fd7df223.md)
 
-[Practitioner Lab 33**: Blind [OS command injection](https://portswigger.net/web-security/os-command-injection) with output redirection**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2033%20Blind%20OS%20command%20injection%20wit%2030a70297fa0a4adcb3d87e7ea977f247.md)
+[Practitioner Lab 33**: Blind OS command injection with output redirection**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2033%20Blind%20OS%20command%20injection%20wit%2030a70297fa0a4adcb3d87e7ea977f247.md)
 
-[Practitioner Lab 34**:  Blind OS [command injection](https://portswigger.net/web-security/os-command-injection) with out-of-band interaction**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2034%20Blind%20OS%20command%20injection%20wit%20d4e3018d3981486d9683887fdca7ce8c.md)
+[Practitioner Lab 34**:  Blind OS command injection with out-of-band interaction**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2034%20Blind%20OS%20command%20injection%20wit%20d4e3018d3981486d9683887fdca7ce8c.md)
 
-[Practitioner Lab 35: **Blind [OS command injection](https://portswigger.net/web-security/os-command-injection) with out-of-band data exfiltration** ](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2035%20Blind%20OS%20command%20injection%20wit%20fcfab3e32f6e450588fc0b5a00dd553c.md)
+[Practitioner Lab 35: **Blind OS command injection with out-of-band data exfiltration** ](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2035%20Blind%20OS%20command%20injection%20wit%20fcfab3e32f6e450588fc0b5a00dd553c.md)
 
-[**Practitioner Lab 36: [Blind SQL injection](https://portswigger.net/web-security/sql-injection/blind) with out-of-band interaction**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2036%20Blind%20SQL%20injection%20with%20out-o%201ed6a5f8e7c642758e5f317fd2c7a9d9.md)
+[**Practitioner Lab 36: Blind SQL injection with out-of-band interaction**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2036%20Blind%20SQL%20injection%20with%20out-o%201ed6a5f8e7c642758e5f317fd2c7a9d9.md)
 
-[**Practitioner Lab 37: [Blind SQL injection](https://portswigger.net/web-security/sql-injection/blind) with out-of-band data exfiltration**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2037%20Blind%20SQL%20injection%20with%20out-o%203a62fb2c6525472eb823ae3aa88e6181.md)
+[**Practitioner Lab 37: Blind SQL injection with out-of-band data exfiltration**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2037%20Blind%20SQL%20injection%20with%20out-o%203a62fb2c6525472eb823ae3aa88e6181.md)
 
 [**Practitioner Lab 38: Finding and exploiting an unused API endpoint**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2038%20Finding%20and%20exploiting%20an%20unus%20d459601a6eb441469f5dfedfe77f5c6d.md)
 
@@ -92,7 +92,7 @@
 
 [**Practitioner Lab 45: Authentication bypass via flawed state machine**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2045%20Authentication%20bypass%20via%20flaw%203d53495d5778455bb4f6c2b9a646f6ad.md)
 
-[**Practitioner Lab 46: URL-based [access control](https://portswigger.net/web-security/access-control) can be circumvented**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2046%20URL-based%20access%20control%20can%20b%20ccd1400170214c7dbb88a218e86b0940.md)
+[**Practitioner Lab 46: URL-based access control can be circumvented**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2046%20URL-based%20access%20control%20can%20b%20ccd1400170214c7dbb88a218e86b0940.md)
 
 [**Practitioner Lab 47: Method-based access control can be circumvented**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2047%20Method-based%20access%20control%20ca%20c27448ecba81470fb0b323635b5a0d8c.md)
 
@@ -100,7 +100,7 @@
 
 [**Practitioner Lab 49: Referer-based access control**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2049%20Referer-based%20access%20control%2013288c5e667246689c194b8a3a2aaf59.md)
 
-[**Practitioner Lab 50: [Blind SSRF](https://portswigger.net/web-security/ssrf/blind) with out-of-band detection**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2050%20Blind%20SSRF%20with%20out-of-band%20de%20d65e6489d0c8443a8f61e46ca317c7ed.md)
+[**Practitioner Lab 50: Blind SSRF with out-of-band detection**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2050%20Blind%20SSRF%20with%20out-of-band%20de%20d65e6489d0c8443a8f61e46ca317c7ed.md)
 
 [Practitioner Lab 51: Bypassing rate limits via race conditions](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2051%20Bypassing%20rate%20limits%20via%20race%2029dbf7a1b8b24d298d2a6f396f54875d.md)
 
@@ -114,9 +114,9 @@
 
 [Practitioner Lab 57: Exploiting XXE via image file upload](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2057%20Exploiting%20XXE%20via%20image%20file%20%20168d36d5170b4abc83165a03790f46e4.md)
 
-[**Practitioner Lab 58: [Blind XXE](https://portswigger.net/web-security/xxe/blind) with out-of-band interaction**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2058%20Blind%20XXE%20with%20out-of-band%20int%20e0c7ec03aafa4409bfadd5347131667a.md)
+[**Practitioner Lab 58: Blind XXE with out-of-band interaction**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2058%20Blind%20XXE%20with%20out-of-band%20int%20e0c7ec03aafa4409bfadd5347131667a.md)
 
-[ **Practitioner Lab 59: [Blind XXE](https://portswigger.net/web-security/xxe/blind) with out-of-band interaction via XML parameter entities**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2059%20Blind%20XXE%20with%20out-of-band%20int%20cfbd5a24adfd4a4dbfbad0f91d193614.md)
+[ **Practitioner Lab 59: Blind XXE with out-of-band interaction via XML parameter entities**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2059%20Blind%20XXE%20with%20out-of-band%20int%20cfbd5a24adfd4a4dbfbad0f91d193614.md)
 
 [Practitioner Lab 60: Exploiting blind XXE to exfiltrate data using a malicious external DTD](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2060%20Exploiting%20blind%20XXE%20to%20exfilt%20c0a61387dea44fcda157d456ca8563eb.md)
 
@@ -196,11 +196,11 @@
 
 [**Practitioner Lab 98: Modifying serialized data types**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2098%20Modifying%20serialized%20data%20type%20d2e96f7be7af4938ab6efd22fe04628b.md)
 
-[**Practitioner Lab 99: Using application functionality to exploit [insecure deserialization](https://portswigger.net/web-security/deserialization)**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2099%20Using%20application%20functionalit%209f6a8289baa34317a0ad562a3cb911dc.md)
+[**Practitioner Lab 99: Using application functionality to exploit insecure deserialization**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%2099%20Using%20application%20functionalit%209f6a8289baa34317a0ad562a3cb911dc.md)
 
 [**Practitioner Lab 100: Arbitrary object injection in PHP**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%20100%20Arbitrary%20object%20injection%20in%20cb6d376283aa4497af4a7172df9a5e23.md)
 
-[**Practitioner Lab 100: Exploiting Java [deserialization](https://portswigger.net/web-security/deserialization) with Apache Commons**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%20100%20Exploiting%20Java%20deserializati%206457c3a38a0b4e2e8c7ef71523ce52bd.md)
+[**Practitioner Lab 100: Exploiting Java deserialization with Apache Commons**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%20100%20Exploiting%20Java%20deserializati%206457c3a38a0b4e2e8c7ef71523ce52bd.md)
 
 [**Practitioner Lab 101: Exploiting PHP deserialization with a pre-built gadget chain** ](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%20101%20Exploiting%20PHP%20deserializatio%20afed8c4730b54c20aeef1260f7c24844.md)
 
@@ -244,7 +244,7 @@
 
 [Practitioner Lab 121: Web cache poisoning via ambiguous requests](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%20121%20Web%20cache%20poisoning%20via%20ambig%20b6e4e2108d9f467f907c25366d24d78c.md)
 
-[**Practitioner Lab 122 : Routing-based [SSRF](https://portswigger.net/web-security/ssrf)**](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%20122%20Routing-based%20SSRF%2082eb0c38f0d54d1294e2d95a70b12580.md)
+[**Practitioner Lab 122 : Routing-based SSRF **](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%20122%20Routing-based%20SSRF%2082eb0c38f0d54d1294e2d95a70b12580.md)
 
 [Practitioner Lab 123: SSRF via flawed request parsing](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%20123%20SSRF%20via%20flawed%20request%20parsi%205f36ca9f26904c78923a4a5d614ada62.md)
 
@@ -252,17 +252,17 @@
 
 [Practitioner Lab 125: HTTP request smuggling, basic CL.TE vulnerability](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%20125%20HTTP%20request%20smuggling,%20basic%20be26155cd0f64eb28b3657af9989c736.md)
 
-[Practitioner Lab 126: HTTP request smuggling, basic [TE.CL](http://te.cl/) vulnerability](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%20126%20HTTP%20request%20smuggling,%20basic%20622937a2bfa9469689af67579e98275a.md)
+[Practitioner Lab 126: HTTP request smuggling, basic TE.CL vulnerability](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%20126%20HTTP%20request%20smuggling,%20basic%20622937a2bfa9469689af67579e98275a.md)
 
 [Practitioner Lab 127: HTTP request smuggling, obfuscating the TE header](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%20127%20HTTP%20request%20smuggling,%20obfus%206b3eecc1d24745a6b146562787304e86.md)
 
 [Practitioner Lab 128: HTTP request smuggling, confirming a CL.TE vulnerability via differential responses](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%20128%20HTTP%20request%20smuggling,%20confi%20fd0ea55a2ab94a8d85bb24683a268970.md)
 
-[Practitioner Lab 129: HTTP request smuggling, confirming a [TE.CL](http://te.cl/) vulnerability via differential responses](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%20129%20HTTP%20request%20smuggling,%20confi%20532557f0519a475aa11b7ed5ae066ff8.md)
+[Practitioner Lab 129: HTTP request smuggling, confirming a TE.CL vulnerability via differential responses](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%20129%20HTTP%20request%20smuggling,%20confi%20532557f0519a475aa11b7ed5ae066ff8.md)
 
 [Practitioner Lab 130 : Exploiting HTTP request smuggling to bypass front-end security controls, CL.TE vulnerability](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%20130%20Exploiting%20HTTP%20request%20smugg%207a9f992f4baf4f67ab0651c103feaeb2.md)
 
-[Practitioner Lab 131: Exploiting HTTP request smuggling to bypass front-end security controls, [TE.CL](http://te.cl/) vulnerability](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%20131%20Exploiting%20HTTP%20request%20smugg%2084a935288a124e59babd011e0dbe00aa.md)
+[Practitioner Lab 131: Exploiting HTTP request smuggling to bypass front-end security controls, TE.CL vulnerability](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%20131%20Exploiting%20HTTP%20request%20smugg%2084a935288a124e59babd011e0dbe00aa.md)
 
 [Practitioner Lab 132: Exploiting HTTP request smuggling to reveal front-end request rewriting](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%20132%20Exploiting%20HTTP%20request%20smugg%202652c062f32348f7b70b24000e313c44.md)
 
@@ -270,7 +270,7 @@
 
 [Practitioner Lab 134: Exploiting HTTP request smuggling to deliver reflected XSS](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%20134%20Exploiting%20HTTP%20request%20smugg%20bcc7b8d9e4ff41e7bc13370bb5cd60c5.md)
 
-[Practitioner Lab 135: [H2.CL](http://h2.cl/) request smuggling](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%20135%20H2%20CL%20request%20smuggling%207d24b18b08c04fea94f28df507dc282e.md)
+[Practitioner Lab 135: H2.CL request smuggling](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%20135%20H2%20CL%20request%20smuggling%207d24b18b08c04fea94f28df507dc282e.md)
 
 [Practitioner Lab 136: Response queue poisoning via H2.TE request smuggling](Practitioner%20Labs%206ad18951f9e0446c954800eef50c9d69/Practitioner%20Lab%20136%20Response%20queue%20poisoning%20via%20%2058b9882dc7a544d4abc46850e757622d.md)
 
